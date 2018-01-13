@@ -1233,7 +1233,7 @@ ul.con_style li:nth-child(3) span {
     .cen_text hr{
         margin:0;
         width: 100%;
-        height: 1px;
+        height: 2px;
         background: #999999;
         border: 0;
         margin: 0 auto 0% auto;
@@ -1404,6 +1404,7 @@ ul.con_style li:nth-child(3) span {
     }
     .cen_text h2{
         font-size:2.2rem;
+        margin-bottom:2rem;
     }
     .cen_con{
         width:100%;
