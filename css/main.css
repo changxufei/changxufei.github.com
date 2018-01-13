@@ -570,7 +570,7 @@ section.page_two:before{
   box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.3);
 }
 section.page_three{
-    background: url(../images/bg1.png) no-repeat center center;
+    background: url(../images/bg17.jpg) no-repeat center center;
     animation: 0.4s myscale 1;
     color: #fff
 }
