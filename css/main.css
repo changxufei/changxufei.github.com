@@ -657,6 +657,7 @@ section.page_two .con_wrap,section.page_three .con_wrap,section.page_four .con_w
 }
 
 .tit_wrap .scissors {
+    display:none;
     width: 0%;
     height: 20px;
     position: absolute;
