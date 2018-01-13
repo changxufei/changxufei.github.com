@@ -1306,14 +1306,14 @@ ul.con_style li:nth-child(3) span {
     .nav_bar ul li{
         width: 20%;
         float: left;
-        font-size: 2rem;
+        font-size: 1rem;
     }
     .nav_bar{
         width: 70%;
         float: right;
     }
     .resume_logo a{
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .cen_con{
         width: 54%;
