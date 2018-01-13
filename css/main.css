@@ -1375,6 +1375,7 @@ ul.con_style li:nth-child(3) span {
         font-weight: bold;
       background: rgba(41,55,84,.2);
       padding-top:1rem;
+        padding-bottom:0.5rem;
     }
     .myinfo table tr td{
         font-size: 1.4rem;
@@ -1452,7 +1453,7 @@ ul.con_style li:nth-child(3) span {
     display:block;
   }
   .tit_wrap h2{
-    margin-bottom:1rem;
+    /*margin-bottom:1rem;*/
   }
   .tit_wrap h2 span:before{
     content:" ";
