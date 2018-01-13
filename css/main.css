@@ -1297,7 +1297,7 @@ ul.con_style li:nth-child(3) span {
 @media screen and (max-width: 768px) {
     .nav_bar ul li a {
         display: block;
-        padding: 0.7rem 0;
+        padding: 0.3rem 0;
         margin: 0px 0rem;
         text-align: center;
         color: #fff;
@@ -1306,7 +1306,7 @@ ul.con_style li:nth-child(3) span {
     .nav_bar ul li{
         width: 20%;
         float: left;
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .nav_bar{
         width: 70%;
