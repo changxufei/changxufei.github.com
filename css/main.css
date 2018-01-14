@@ -575,7 +575,7 @@ section.page_three{
     color: #fff
 }
 section.page_four{
-    background: url(../images/bg4.jpg) no-repeat center center;
+    background:#12121C url(../images/bg15.jpg) no-repeat center center;
     animation: 0.4s myscale 1;
     color: #fff
 }
